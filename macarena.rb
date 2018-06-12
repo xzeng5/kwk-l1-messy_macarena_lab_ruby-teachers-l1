@@ -21,10 +21,10 @@ puts "Step 4: Turn your left palm up."
 puts "Step 5: Place your right hand on your left shoulder."
 
 # Step 6: FIXME
-puts "Step 6: Left arm out in front of you, palm facing down."
+puts "Step 6: Place your left hand on your right shoulder."
 
 # Step 7: FIXME
-puts "Step 7: Place your left hand on your left shoulder."
+puts "Step 7: Bring your right hand up and around to the back of your head."
 
 # Step 8: FIXME
-puts "Step 8: The Last Step"
+puts "Step 7: Bring your left hand up and around to the back of your head."
