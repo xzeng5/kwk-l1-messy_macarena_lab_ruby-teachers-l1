@@ -3,7 +3,7 @@ puts ""
 
 # Fix The Dance Instructions Below
 # Every line should have one instruction using puts.
-# The first instruction is correct. 
+# The first instruction is correct.
 
 # Step 1: GOOD
 puts "Step 1: Right arm out in front of you, palm facing down."
